@@ -1,5 +1,5 @@
 {
-  "name": "user-validator",
+  "name": "@maurya/user-validator",
   "version": "1.0.0",
   "description": "A simple validation package for common data types.",
   "main": "index.js",
